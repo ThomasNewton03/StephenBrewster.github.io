@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://StephenBrewster.github.io/sitemap.xml
