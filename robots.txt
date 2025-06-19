@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://StephenBrewster.github.io/sitemap.xml
+Sitemap: https://ThomasNewton03.github.io/StephenBrewster/sitemap.xml
