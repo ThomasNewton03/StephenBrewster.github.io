@@ -49,12 +49,6 @@ profiles:
     more_info: >
       <p>PhD Student</p>  
 
-
-profiles_interns:
-  - align: right
-    image: team/jolie.png
-    content: team/about_jolie.md
-    image_circular: true # crops the image to make it circular
-    more_info: >
-      <p>Research Intern (Summer 2022-2024)</p>
 ---
+
+The BodyElectric project is an ERC Advanced Grant (101201656) to Professor Stephen Brewster, in the School of Computing Science at the University of Glasgow
