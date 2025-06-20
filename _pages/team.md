@@ -15,7 +15,4 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>Lead Investigator</p>
-  
-  #The BodyElectric project is an ERC Advanced Grant (101201656) to Professor Stephen Brewster, in the School of Computing Science at the University of Glasgow
-
 ---
