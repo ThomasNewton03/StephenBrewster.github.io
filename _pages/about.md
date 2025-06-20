@@ -1,6 +1,6 @@
 ---
-layout: about
-title: home
+layout: About
+title: Home
 permalink: /
 subtitle: 
 
